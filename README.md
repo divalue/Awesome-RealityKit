@@ -16,6 +16,7 @@ The RealityKit framework was built from the ground up specifically for augmented
         + [2020](#2020)
         + [2019](#2019)
     + [Articles](#articles)
+    + [Videos](#videos)
  * [Projects](#projects)
    + [Apple](#apple_projects)
    + [Community](#community)
@@ -66,7 +67,14 @@ The RealityKit framework was built from the ground up specifically for augmented
 
 
 ### Articles
-
+- [Getting started with RealityKit](https://maxxfrazer.medium.com/getting-started-with-realitykit-3b401d6f6f) - Series of articles about RealityKit
+- [RealityKit](https://www.kodeco.com/books/apple-augmented-reality-by-tutorials/v1.0/chapters/9-realitykit) - Part of the book about RealityKit from kodeco
+- [Building an AR app with RealityKit](https://www.ralfebert.com/ios/realitykit-dice-tutorial/) - RealityKit dice AR game tutorial
+- [Introduction to RealityKit on iOS— Entities, Gestures, and Ray Casting](https://betterprogramming.pub/introduction-to-realitykit-on-ios-entities-gestures-and-ray-casting-8f6633c11877) - Introduction to RealityKit
+- [Introduction to RealityKit](https://codingxr.com/?tag=realitykit) - Introduction to RealityKit from codingxr
+- [Create your first AR app with RealityKit and SwiftUI](https://medium.com/twinkl-educational-publishers/create-your-first-ar-app-with-realitykit-and-swiftui-7c5d1388b5) - Introduction to RealityKit
+- [How to animate AR objects with SwiftUI and RealityKit](https://medium.com/twinkl-educational-publishers/how-to-animate-ar-objects-with-swiftui-and-realitykit-b14730c4fad9)
+- [RealityKit on iOS, part 2 — applying collision events](https://betterprogramming.pub/realitykit-on-ios-part-2-applying-collision-events-d64b6e10421f) - Detect and Handle Collision Events in a RealityKit Scene Across Different Entities
 
 ## Projects
 
@@ -80,6 +88,7 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [Diorama](https://developer.apple.com/documentation/visionos/diorama) - Design scenes for your visionOS app using Reality Composer Pro
 
 ### Community
+- [RealityKit-Sampler](https://github.com/john-rocky/RealityKit-Sampler) - RealityKitSampler is a sample collection of basic functions of RealityKit, Apple's AR framework for iOS
 
 
 
