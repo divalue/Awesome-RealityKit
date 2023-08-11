@@ -7,7 +7,11 @@ A collection of RealityKit projects and resources. Feel free to contribute!
 
 The RealityKit framework was built from the ground up specifically for augmented reality with photo-realistic rendering, camera effects, animations, physics, and more. With native Swift APIs, ARKit integration, incredibly realistic physics-based rendering, transform and skeletal animations, spatial audio, and rigid body physics, RealityKit makes AR development faster and easier than ever before.
 
+ * [Projects](#projects)
+   + [Apple](#apple_projects)
+   + [Community](#community)
  * [Resources](#resources)
+    + [Articles](#articles)
     + [Apple](#apple)
     + [WWDC](#wwdc)
         + [2023](#2023)
@@ -15,16 +19,43 @@ The RealityKit framework was built from the ground up specifically for augmented
         + [2021](#2021)
         + [2020](#2020)
         + [2019](#2019)
-    + [Articles](#articles)
-    + [Videos](#videos)
- * [Projects](#projects)
-   + [Apple](#apple_projects)
-   + [Community](#community)
     
+## Projects
 
+### Apple <a name="apple_projects"></a>
+- [Building an Immersive Experience with RealityKit](https://developer.apple.com/documentation/realitykit/building_an_immersive_experience_with_realitykit) - Use systems and postprocessing effects to create a realistic underwater scene
+- [Controlling Entity Collisions in RealityKit](https://developer.apple.com/documentation/realitykit/controlling_entity_collisions_in_realitykit) - Create collision filters to control which objects collide
+- [Creating a game with scene understanding](https://developer.apple.com/documentation/realitykit/creating_a_game_with_scene_understanding) - Create AR games and experiences that interact with real-world objects on LiDAR-equipped iOS devices.
+- [Creating a Game with Reality Composer](https://developer.apple.com/documentation/realitykit/creating_a_game_with_reality_composer) - Design your app’s visual look and behaviors in Reality Composer, and complete the gameplay experience by using custom RealityKit code
+- [SwiftStrike: Creating a Game with RealityKit](https://developer.apple.com/documentation/realitykit/swiftstrike_creating_a_game_with_realitykit) - Create a multiplayer game with ARKit, RealityKit, and Swift using the SwiftStrike app as a guide
+- [Hello World](https://developer.apple.com/documentation/visionos/world) - Use windows, volumes, and immersive spaces to teach people about the Earth
+- [Diorama](https://developer.apple.com/documentation/visionos/diorama) - Design scenes for your visionOS app using Reality Composer Pro
 
+### Community
+- [ImmersiveMoveAndRotate](https://github.com/simonbs/ImmersiveMoveAndRotate) - Example project showing how an immersive scene on visionOS can contain a RealityView that presents a ModelEntity and how that entity can be dragged using DragGesture and rotated using RotateGesture.
+- [RealityKit-Sampler](https://github.com/john-rocky/RealityKit-Sampler) - RealityKitSampler is a sample collection of basic functions of RealityKit, Apple's AR framework for iOS
+- [FocusEntity](https://github.com/maxxfrazer/FocusEntity)
+- [RealityKit CardFlip](https://github.com/maxxfrazer/RealityKit-CardFlip) - RealityKit CardFlip game
+- [RealityUI](https://github.com/maxxfrazer/RealityUI) - RealityUI is a collection of User Interface classes for RealityKit
+- [Mirador](https://github.com/HyperARCo/Mirador) - Mirador makes it easy to build impressive point-of-interest AR experiences on top of Apple’s new AR platform, RealityKit
+- [RealityKit 2 DrawableQueue](https://github.com/arthurschiller/realitykit-drawable-queue) - A sample project demonstrating a usecase for the DrawableQueue API in RealityKit 2
+- [RealityKit-Collisions](https://github.com/Reality-Dev/RealityKit-Collisions) - This is a convenience API for setting Collision Filters in RealityKit
+- [RealityGeometries](https://github.com/maxxfrazer/RealityGeometries) - Add more geometries to your RealityKit projects
+- [VisionCraft](https://github.com/Sigil-Wen/VisionCraft) - Minecraft Clone in Apple Vision Pro
+- [Evolution of Metal, ARKit, and RealityKit Sheet](https://github.com/ynagatomo/evolution-Metal-ARKit-RealityKit-sheet) - This sheet shows the evolution of Apple frameworks - Metal, ARKit, and RealityKit
+- [BodyTracking](https://github.com/Reality-Dev/BodyTracking) - This package includes classes that enable easy, convenient body tracking in RealityKit
+- [GenerativeDoodleArt_VisionOS](https://github.com/tracyhenry/GenerativeDoodleArt_VisionOS/tree/54f504eaf7548fc6bb8f910d8e6f379b402812c2) - Explore the transformative capabilities of visionOS by creating augmented reality wall art using Vision Pro
 
 ## Resources
+### Articles
+- [Getting started with RealityKit](https://maxxfrazer.medium.com/getting-started-with-realitykit-3b401d6f6f) - Series of articles about RealityKit
+- [RealityKit](https://www.kodeco.com/books/apple-augmented-reality-by-tutorials/v1.0/chapters/9-realitykit) - Part of the book about RealityKit from kodeco
+- [Building an AR app with RealityKit](https://www.ralfebert.com/ios/realitykit-dice-tutorial/) - RealityKit dice AR game tutorial
+- [Introduction to RealityKit on iOS— Entities, Gestures, and Ray Casting](https://betterprogramming.pub/introduction-to-realitykit-on-ios-entities-gestures-and-ray-casting-8f6633c11877) - Introduction to RealityKit
+- [Introduction to RealityKit](https://codingxr.com/?tag=realitykit) - Introduction to RealityKit from codingxr
+- [Create your first AR app with RealityKit and SwiftUI](https://medium.com/twinkl-educational-publishers/create-your-first-ar-app-with-realitykit-and-swiftui-7c5d1388b5) - Introduction to RealityKit
+- [How to animate AR objects with SwiftUI and RealityKit](https://medium.com/twinkl-educational-publishers/how-to-animate-ar-objects-with-swiftui-and-realitykit-b14730c4fad9)
+- [RealityKit on iOS, part 2 — applying collision events](https://betterprogramming.pub/realitykit-on-ios-part-2-applying-collision-events-d64b6e10421f) - Detect and Handle Collision Events in a RealityKit Scene Across Different Entities
 
 ### Apple
 - [RealityKit Overview](https://developer.apple.com/augmented-reality/realitykit/) - Overview
@@ -64,45 +95,4 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [Building Collaborative AR Experiences](https://developer.apple.com/videos/play/wwdc2019/610/) - With iOS 13, ARKit and RealityKit enable apps to establish shared AR experiences faster and easier than ever
 - [Building Apps with RealityKit](https://developer.apple.com/videos/play/wwdc2019/605/) - Gain a practical understanding of RealityKit capabilities by developing a game using its easy-to-learn API
 - [Introducing RealityKit and Reality Composer](https://developer.apple.com/videos/play/wwdc2019/603/) - Architected for AR, RealityKit provides developers access to world-class capabilities for rendering, animation, physics, and spatial audio
-
-
-### Articles
-- [Getting started with RealityKit](https://maxxfrazer.medium.com/getting-started-with-realitykit-3b401d6f6f) - Series of articles about RealityKit
-- [RealityKit](https://www.kodeco.com/books/apple-augmented-reality-by-tutorials/v1.0/chapters/9-realitykit) - Part of the book about RealityKit from kodeco
-- [Building an AR app with RealityKit](https://www.ralfebert.com/ios/realitykit-dice-tutorial/) - RealityKit dice AR game tutorial
-- [Introduction to RealityKit on iOS— Entities, Gestures, and Ray Casting](https://betterprogramming.pub/introduction-to-realitykit-on-ios-entities-gestures-and-ray-casting-8f6633c11877) - Introduction to RealityKit
-- [Introduction to RealityKit](https://codingxr.com/?tag=realitykit) - Introduction to RealityKit from codingxr
-- [Create your first AR app with RealityKit and SwiftUI](https://medium.com/twinkl-educational-publishers/create-your-first-ar-app-with-realitykit-and-swiftui-7c5d1388b5) - Introduction to RealityKit
-- [How to animate AR objects with SwiftUI and RealityKit](https://medium.com/twinkl-educational-publishers/how-to-animate-ar-objects-with-swiftui-and-realitykit-b14730c4fad9)
-- [RealityKit on iOS, part 2 — applying collision events](https://betterprogramming.pub/realitykit-on-ios-part-2-applying-collision-events-d64b6e10421f) - Detect and Handle Collision Events in a RealityKit Scene Across Different Entities
-
-## Projects
-
-### Apple <a name="apple_projects"></a>
-- [Building an Immersive Experience with RealityKit](https://developer.apple.com/documentation/realitykit/building_an_immersive_experience_with_realitykit) - Use systems and postprocessing effects to create a realistic underwater scene
-- [Controlling Entity Collisions in RealityKit](https://developer.apple.com/documentation/realitykit/controlling_entity_collisions_in_realitykit) - Create collision filters to control which objects collide
-- [Creating a game with scene understanding](https://developer.apple.com/documentation/realitykit/creating_a_game_with_scene_understanding) - Create AR games and experiences that interact with real-world objects on LiDAR-equipped iOS devices.
-- [Creating a Game with Reality Composer](https://developer.apple.com/documentation/realitykit/creating_a_game_with_reality_composer) - Design your app’s visual look and behaviors in Reality Composer, and complete the gameplay experience by using custom RealityKit code
-- [SwiftStrike: Creating a Game with RealityKit](https://developer.apple.com/documentation/realitykit/swiftstrike_creating_a_game_with_realitykit) - Create a multiplayer game with ARKit, RealityKit, and Swift using the SwiftStrike app as a guide
-- [Hello World](https://developer.apple.com/documentation/visionos/world) - Use windows, volumes, and immersive spaces to teach people about the Earth
-- [Diorama](https://developer.apple.com/documentation/visionos/diorama) - Design scenes for your visionOS app using Reality Composer Pro
-
-### Community
-- [ImmersiveMoveAndRotate](https://github.com/simonbs/ImmersiveMoveAndRotate) - Example project showing how an immersive scene on visionOS can contain a RealityView that presents a ModelEntity and how that entity can be dragged using DragGesture and rotated using RotateGesture.
-- [RealityKit-Sampler](https://github.com/john-rocky/RealityKit-Sampler) - RealityKitSampler is a sample collection of basic functions of RealityKit, Apple's AR framework for iOS
-- [FocusEntity](https://github.com/maxxfrazer/FocusEntity)
-- [RealityKit CardFlip](https://github.com/maxxfrazer/RealityKit-CardFlip) - RealityKit CardFlip game
-- [RealityUI](https://github.com/maxxfrazer/RealityUI) - RealityUI is a collection of User Interface classes for RealityKit
-- [Mirador](https://github.com/HyperARCo/Mirador) - Mirador makes it easy to build impressive point-of-interest AR experiences on top of Apple’s new AR platform, RealityKit
-- [RealityKit 2 DrawableQueue](https://github.com/arthurschiller/realitykit-drawable-queue) - A sample project demonstrating a usecase for the DrawableQueue API in RealityKit 2
-- [RealityKit-Collisions](https://github.com/Reality-Dev/RealityKit-Collisions) - This is a convenience API for setting Collision Filters in RealityKit
-- [RealityGeometries](https://github.com/maxxfrazer/RealityGeometries) - Add more geometries to your RealityKit projects
-- [VisionCraft](https://github.com/Sigil-Wen/VisionCraft) - Minecraft Clone in Apple Vision Pro
-- [Evolution of Metal, ARKit, and RealityKit Sheet](https://github.com/ynagatomo/evolution-Metal-ARKit-RealityKit-sheet) - This sheet shows the evolution of Apple frameworks - Metal, ARKit, and RealityKit
-- [BodyTracking](https://github.com/Reality-Dev/BodyTracking) - This package includes classes that enable easy, convenient body tracking in RealityKit
-- [GenerativeDoodleArt_VisionOS](https://github.com/tracyhenry/GenerativeDoodleArt_VisionOS/tree/54f504eaf7548fc6bb8f910d8e6f379b402812c2) - Explore the transformative capabilities of visionOS by creating augmented reality wall art using Vision Pro
-
-
-
-
 
