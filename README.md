@@ -1,6 +1,6 @@
 # Awesome RealityKit
 <div align="center">
-    <img src="https://github.com/divalue/Awesome-RealityKit/blob/main/Awesome_RealityKit_header.png" alt="header">
+    <img src="Awesome_RealityKit_header.png" alt="header">
 </div>
 
 A collection of RealityKit projects and resources. Feel free to contribute!
