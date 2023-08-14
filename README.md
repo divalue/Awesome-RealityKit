@@ -25,7 +25,7 @@ The RealityKit framework was built from the ground up specifically for augmented
 ### Community
 - [ImmersiveMoveAndRotate](https://github.com/simonbs/ImmersiveMoveAndRotate) - Example project showing how an immersive scene on visionOS can contain a RealityView that presents a ModelEntity and how that entity can be dragged using DragGesture and rotated using RotateGesture.
 - [RealityKit-Sampler](https://github.com/john-rocky/RealityKit-Sampler) - RealityKitSampler is a sample collection of basic functions of RealityKit, Apple's AR framework for iOS
-- [FocusEntity](https://github.com/maxxfrazer/FocusEntity)
+- [FocusEntity](https://github.com/maxxfrazer/FocusEntity) - FocusEntity lets you see exactly where the centre of the view will sit in the AR space
 - [RealityKit CardFlip](https://github.com/maxxfrazer/RealityKit-CardFlip) - RealityKit CardFlip game
 - [RealityUI](https://github.com/maxxfrazer/RealityUI) - RealityUI is a collection of User Interface classes for RealityKit
 - [Mirador](https://github.com/HyperARCo/Mirador) - Mirador makes it easy to build impressive point-of-interest AR experiences on top of Apple’s new AR platform, RealityKit
