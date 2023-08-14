@@ -8,8 +8,8 @@ A collection of RealityKit projects and resources. Feel free to contribute!
 The RealityKit framework was built from the ground up specifically for augmented reality with photo-realistic rendering, camera effects, animations, physics, and more. With native Swift APIs, ARKit integration, incredibly realistic physics-based rendering, transform and skeletal animations, spatial audio, and rigid body physics, RealityKit makes AR development faster and easier than ever before.
 
  * [Projects](#projects)
-   + [Apple](#apple_projects)
    + [Community](#community)
+   + [Apple](#apple_projects)
  * [Resources](#resources)
     + [Articles](#articles)
     + [Apple](#apple)
@@ -21,15 +21,6 @@ The RealityKit framework was built from the ground up specifically for augmented
         + [2019](#2019)
     
 ## Projects
-
-### Apple <a name="apple_projects"></a>
-- [Building an Immersive Experience with RealityKit](https://developer.apple.com/documentation/realitykit/building_an_immersive_experience_with_realitykit) - Use systems and postprocessing effects to create a realistic underwater scene
-- [Controlling Entity Collisions in RealityKit](https://developer.apple.com/documentation/realitykit/controlling_entity_collisions_in_realitykit) - Create collision filters to control which objects collide
-- [Creating a game with scene understanding](https://developer.apple.com/documentation/realitykit/creating_a_game_with_scene_understanding) - Create AR games and experiences that interact with real-world objects on LiDAR-equipped iOS devices.
-- [Creating a Game with Reality Composer](https://developer.apple.com/documentation/realitykit/creating_a_game_with_reality_composer) - Design your app’s visual look and behaviors in Reality Composer, and complete the gameplay experience by using custom RealityKit code
-- [SwiftStrike: Creating a Game with RealityKit](https://developer.apple.com/documentation/realitykit/swiftstrike_creating_a_game_with_realitykit) - Create a multiplayer game with ARKit, RealityKit, and Swift using the SwiftStrike app as a guide
-- [Hello World](https://developer.apple.com/documentation/visionos/world) - Use windows, volumes, and immersive spaces to teach people about the Earth
-- [Diorama](https://developer.apple.com/documentation/visionos/diorama) - Design scenes for your visionOS app using Reality Composer Pro
 
 ### Community
 - [ImmersiveMoveAndRotate](https://github.com/simonbs/ImmersiveMoveAndRotate) - Example project showing how an immersive scene on visionOS can contain a RealityView that presents a ModelEntity and how that entity can be dragged using DragGesture and rotated using RotateGesture.
@@ -45,6 +36,15 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [Evolution of Metal, ARKit, and RealityKit Sheet](https://github.com/ynagatomo/evolution-Metal-ARKit-RealityKit-sheet) - This sheet shows the evolution of Apple frameworks - Metal, ARKit, and RealityKit
 - [BodyTracking](https://github.com/Reality-Dev/BodyTracking) - This package includes classes that enable easy, convenient body tracking in RealityKit
 - [GenerativeDoodleArt_VisionOS](https://github.com/tracyhenry/GenerativeDoodleArt_VisionOS/tree/54f504eaf7548fc6bb8f910d8e6f379b402812c2) - Explore the transformative capabilities of visionOS by creating augmented reality wall art using Vision Pro
+
+### Apple <a name="apple_projects"></a>
+- [Building an Immersive Experience with RealityKit](https://developer.apple.com/documentation/realitykit/building_an_immersive_experience_with_realitykit) - Use systems and postprocessing effects to create a realistic underwater scene
+- [Controlling Entity Collisions in RealityKit](https://developer.apple.com/documentation/realitykit/controlling_entity_collisions_in_realitykit) - Create collision filters to control which objects collide
+- [Creating a game with scene understanding](https://developer.apple.com/documentation/realitykit/creating_a_game_with_scene_understanding) - Create AR games and experiences that interact with real-world objects on LiDAR-equipped iOS devices.
+- [Creating a Game with Reality Composer](https://developer.apple.com/documentation/realitykit/creating_a_game_with_reality_composer) - Design your app’s visual look and behaviors in Reality Composer, and complete the gameplay experience by using custom RealityKit code
+- [SwiftStrike: Creating a Game with RealityKit](https://developer.apple.com/documentation/realitykit/swiftstrike_creating_a_game_with_realitykit) - Create a multiplayer game with ARKit, RealityKit, and Swift using the SwiftStrike app as a guide
+- [Hello World](https://developer.apple.com/documentation/visionos/world) - Use windows, volumes, and immersive spaces to teach people about the Earth
+- [Diorama](https://developer.apple.com/documentation/visionos/diorama) - Design scenes for your visionOS app using Reality Composer Pro
 
 ## Resources
 ### Articles
@@ -95,4 +95,3 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [Building Collaborative AR Experiences](https://developer.apple.com/videos/play/wwdc2019/610/) - With iOS 13, ARKit and RealityKit enable apps to establish shared AR experiences faster and easier than ever
 - [Building Apps with RealityKit](https://developer.apple.com/videos/play/wwdc2019/605/) - Gain a practical understanding of RealityKit capabilities by developing a game using its easy-to-learn API
 - [Introducing RealityKit and Reality Composer](https://developer.apple.com/videos/play/wwdc2019/603/) - Architected for AR, RealityKit provides developers access to world-class capabilities for rendering, animation, physics, and spatial audio
-
