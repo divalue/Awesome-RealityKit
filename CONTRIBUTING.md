@@ -11,7 +11,7 @@ Your contributions are always welcome!
 * Check your spelling and grammar.
 * Make sure your text editor is set to remove trailing whitespace.
 
-#### Deleting
+## Deleting
 
 Rreasons for deleting project:
 - No updates
