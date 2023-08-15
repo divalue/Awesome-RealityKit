@@ -30,6 +30,7 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [RealityKit-Sampler](https://github.com/john-rocky/RealityKit-Sampler) - RealityKitSampler is a sample collection of basic functions of RealityKit, Apple's AR framework for iOS
 - [RealityKit CardFlip](https://github.com/maxxfrazer/RealityKit-CardFlip) - RealityKit CardFlip game
 - [RealityKit 2 DrawableQueue](https://github.com/arthurschiller/realitykit-drawable-queue) - A sample project demonstrating a usecase for the DrawableQueue API in RealityKit 2
+- [RealityKitLaunchScreen](https://github.com/aheze/RealityKitLaunchScreen/tree/main) - A launch screen made with SwiftUI and RealityKit
 #### Packages
 - [FocusEntity](https://github.com/maxxfrazer/FocusEntity) - FocusEntity lets you see exactly where the centre of the view will sit in the AR space
 - [RealityUI](https://github.com/maxxfrazer/RealityUI) - RealityUI is a collection of User Interface classes for RealityKit
