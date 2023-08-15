@@ -9,6 +9,9 @@ The RealityKit framework was built from the ground up specifically for augmented
 
  * [Projects](#projects)
    + [Community](#community)
+       + [Samples](#samples)
+       + [Packages](#packages)
+       + [VisionOS](#visionos)
    + [Apple](#apple_projects)
  * [Resources](#resources)
     + [Articles](#articles)
@@ -23,18 +26,20 @@ The RealityKit framework was built from the ground up specifically for augmented
 ## Projects
 
 ### Community
-- [ImmersiveMoveAndRotate](https://github.com/simonbs/ImmersiveMoveAndRotate) - Example project showing how an immersive scene on visionOS can contain a RealityView that presents a ModelEntity and how that entity can be dragged using DragGesture and rotated using RotateGesture.
+#### Samples
 - [RealityKit-Sampler](https://github.com/john-rocky/RealityKit-Sampler) - RealityKitSampler is a sample collection of basic functions of RealityKit, Apple's AR framework for iOS
-- [FocusEntity](https://github.com/maxxfrazer/FocusEntity) - FocusEntity lets you see exactly where the centre of the view will sit in the AR space
 - [RealityKit CardFlip](https://github.com/maxxfrazer/RealityKit-CardFlip) - RealityKit CardFlip game
+- [RealityKit 2 DrawableQueue](https://github.com/arthurschiller/realitykit-drawable-queue) - A sample project demonstrating a usecase for the DrawableQueue API in RealityKit 2
+#### Packages
+- [FocusEntity](https://github.com/maxxfrazer/FocusEntity) - FocusEntity lets you see exactly where the centre of the view will sit in the AR space
 - [RealityUI](https://github.com/maxxfrazer/RealityUI) - RealityUI is a collection of User Interface classes for RealityKit
 - [Mirador](https://github.com/HyperARCo/Mirador) - Mirador makes it easy to build impressive point-of-interest AR experiences on top of Apple’s new AR platform, RealityKit
-- [RealityKit 2 DrawableQueue](https://github.com/arthurschiller/realitykit-drawable-queue) - A sample project demonstrating a usecase for the DrawableQueue API in RealityKit 2
 - [RealityKit-Collisions](https://github.com/Reality-Dev/RealityKit-Collisions) - This is a convenience API for setting Collision Filters in RealityKit
 - [RealityGeometries](https://github.com/maxxfrazer/RealityGeometries) - Add more geometries to your RealityKit projects
-- [VisionCraft](https://github.com/Sigil-Wen/VisionCraft) - Minecraft Clone in Apple Vision Pro
-- [Evolution of Metal, ARKit, and RealityKit Sheet](https://github.com/ynagatomo/evolution-Metal-ARKit-RealityKit-sheet) - This sheet shows the evolution of Apple frameworks - Metal, ARKit, and RealityKit
 - [BodyTracking](https://github.com/Reality-Dev/BodyTracking) - This package includes classes that enable easy, convenient body tracking in RealityKit
+#### VisionOS
+- [ImmersiveMoveAndRotate](https://github.com/simonbs/ImmersiveMoveAndRotate) - Example project showing how an immersive scene on visionOS can contain a RealityView that presents a ModelEntity and how that entity can be dragged using DragGesture and rotated using RotateGesture.
+- [VisionCraft](https://github.com/Sigil-Wen/VisionCraft) - Minecraft Clone in Apple Vision Pro
 - [GenerativeDoodleArt_VisionOS](https://github.com/tracyhenry/GenerativeDoodleArt_VisionOS/tree/54f504eaf7548fc6bb8f910d8e6f379b402812c2) - Explore the transformative capabilities of visionOS by creating augmented reality wall art using Vision Pro
 
 ### Apple <a name="apple_projects"></a>
@@ -56,6 +61,8 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [Create your first AR app with RealityKit and SwiftUI](https://medium.com/twinkl-educational-publishers/create-your-first-ar-app-with-realitykit-and-swiftui-7c5d1388b5) - Introduction to RealityKit
 - [How to animate AR objects with SwiftUI and RealityKit](https://medium.com/twinkl-educational-publishers/how-to-animate-ar-objects-with-swiftui-and-realitykit-b14730c4fad9)
 - [RealityKit on iOS, part 2 — applying collision events](https://betterprogramming.pub/realitykit-on-ios-part-2-applying-collision-events-d64b6e10421f) - Detect and Handle Collision Events in a RealityKit Scene Across Different Entities
+- [Evolution of Metal, ARKit, and RealityKit Sheet](https://github.com/ynagatomo/evolution-Metal-ARKit-RealityKit-sheet) - This sheet shows the evolution of Apple frameworks - Metal, ARKit, and RealityKit
+
 
 ### Apple
 - [RealityKit Overview](https://developer.apple.com/augmented-reality/realitykit/) - Overview
