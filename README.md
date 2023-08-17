@@ -63,6 +63,7 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [How to animate AR objects with SwiftUI and RealityKit](https://medium.com/twinkl-educational-publishers/how-to-animate-ar-objects-with-swiftui-and-realitykit-b14730c4fad9)
 - [RealityKit on iOS, part 2 — applying collision events](https://betterprogramming.pub/realitykit-on-ios-part-2-applying-collision-events-d64b6e10421f) - Detect and Handle Collision Events in a RealityKit Scene Across Different Entities
 - [Evolution of Metal, ARKit, and RealityKit Sheet](https://github.com/ynagatomo/evolution-Metal-ARKit-RealityKit-sheet) - This sheet shows the evolution of Apple frameworks - Metal, ARKit, and RealityKit
+- [Awesome visionOS](https://github.com/stevenpaulhoward/awesome-visionos) - Awesome Apple visionOS related content
 
 
 ### Apple
