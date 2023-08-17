@@ -42,7 +42,6 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [ImmersiveMoveAndRotate](https://github.com/simonbs/ImmersiveMoveAndRotate) - Example project showing how an immersive scene on visionOS can contain a RealityView that presents a ModelEntity and how that entity can be dragged using DragGesture and rotated using RotateGesture.
 - [VisionCraft](https://github.com/Sigil-Wen/VisionCraft) - Minecraft Clone in Apple Vision Pro
 - [GenerativeDoodleArt_VisionOS](https://github.com/tracyhenry/GenerativeDoodleArt_VisionOS/tree/54f504eaf7548fc6bb8f910d8e6f379b402812c2) - Explore the transformative capabilities of visionOS by creating augmented reality wall art using Vision Pro
-
 ### Apple <a name="apple_projects"></a>
 - [Building an Immersive Experience with RealityKit](https://developer.apple.com/documentation/realitykit/building_an_immersive_experience_with_realitykit) - Use systems and postprocessing effects to create a realistic underwater scene
 - [Controlling Entity Collisions in RealityKit](https://developer.apple.com/documentation/realitykit/controlling_entity_collisions_in_realitykit) - Create collision filters to control which objects collide
@@ -64,8 +63,6 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [RealityKit on iOS, part 2 — applying collision events](https://betterprogramming.pub/realitykit-on-ios-part-2-applying-collision-events-d64b6e10421f) - Detect and Handle Collision Events in a RealityKit Scene Across Different Entities
 - [Evolution of Metal, ARKit, and RealityKit Sheet](https://github.com/ynagatomo/evolution-Metal-ARKit-RealityKit-sheet) - This sheet shows the evolution of Apple frameworks - Metal, ARKit, and RealityKit
 - [Awesome visionOS](https://github.com/stevenpaulhoward/awesome-visionos) - Awesome Apple visionOS related content
-
-
 ### Apple
 - [RealityKit Overview](https://developer.apple.com/augmented-reality/realitykit/) - Overview
 - [RealityKit Documentation](https://developer.apple.com/documentation/realitykit) - Simulate and render 3D content for use in your augmented reality apps
