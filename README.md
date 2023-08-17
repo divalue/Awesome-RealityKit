@@ -31,6 +31,7 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [RealityKit CardFlip](https://github.com/maxxfrazer/RealityKit-CardFlip) - RealityKit CardFlip game
 - [RealityKit 2 DrawableQueue](https://github.com/arthurschiller/realitykit-drawable-queue) - A sample project demonstrating a usecase for the DrawableQueue API in RealityKit 2
 - [RealityKitLaunchScreen](https://github.com/aheze/RealityKitLaunchScreen/tree/main) - A launch screen made with SwiftUI and RealityKit
+- [Glass-Fit](https://github.com/mounarezgui-mobile/glass-fit) - Glass-Fit is an open-source iOS app demo that showcases the power of RealityKit in making 3D overlays effortless using Reality Composer
 #### Packages
 - [FocusEntity](https://github.com/maxxfrazer/FocusEntity) - FocusEntity lets you see exactly where the centre of the view will sit in the AR space
 - [RealityUI](https://github.com/maxxfrazer/RealityUI) - RealityUI is a collection of User Interface classes for RealityKit
