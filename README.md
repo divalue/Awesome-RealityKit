@@ -41,6 +41,7 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [BodyTracking](https://github.com/Reality-Dev/BodyTracking) - This package includes classes that enable easy, convenient body tracking in RealityKit
 - [Euclid](https://github.com/nicklockwood/Euclid) - Euclid is a Swift library for creating and manipulating 3D geometry using techniques such as extruding or "lathing" 2D paths to create solid 3D shapes, and CSG (Constructive Solid Geometry) to combine or subtract those shapes from one another.
 - [reality-dump](https://github.com/elkraneo/reality-dump) - `swift-custom-dump` extension for RealityKit
+- [Reality Morpher](https://github.com/Utsira/RealityMorpher) - Adds Morph Target / Shape Key / Blend Shape animations to RealityKit
 #### VisionOS
 - [ImmersiveMoveAndRotate](https://github.com/simonbs/ImmersiveMoveAndRotate) - Example project showing how an immersive scene on visionOS can contain a RealityView that presents a ModelEntity and how that entity can be dragged using DragGesture and rotated using RotateGesture.
 - [VisionCraft](https://github.com/Sigil-Wen/VisionCraft) - Minecraft Clone in Apple Vision Pro
