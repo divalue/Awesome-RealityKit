@@ -55,6 +55,7 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [SwiftStrike: Creating a Game with RealityKit](https://developer.apple.com/documentation/realitykit/swiftstrike_creating_a_game_with_realitykit) - Create a multiplayer game with ARKit, RealityKit, and Swift using the SwiftStrike app as a guide
 - [Hello World](https://developer.apple.com/documentation/visionos/world) - Use windows, volumes, and immersive spaces to teach people about the Earth
 - [Diorama](https://developer.apple.com/documentation/visionos/diorama) - Design scenes for your visionOS app using Reality Composer Pro
+- [Swift Splash](https://developer.apple.com/documentation/visionos/swift-splash) - Use RealityKit to create an interactive ride in visionOS
 
 ## Resources
 ### Articles
