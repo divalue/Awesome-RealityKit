@@ -3,7 +3,7 @@
     <img src="Awesome_RealityKit_header.png" alt="header">
 </div>
 
-A collection of RealityKit projects and resources. Feel free to contribute!
+Awesome projects and resources about RealityKit. Feel free to contribute!
 
 The RealityKit framework was built from the ground up specifically for augmented reality with photo-realistic rendering, camera effects, animations, physics, and more. With native Swift APIs, ARKit integration, incredibly realistic physics-based rendering, transform and skeletal animations, spatial audio, and rigid body physics, RealityKit makes AR development faster and easier than ever before.
 
