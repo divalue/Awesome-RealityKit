@@ -48,6 +48,7 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [VisionCraft](https://github.com/Sigil-Wen/VisionCraft) - Minecraft Clone in Apple Vision Pro
 - [GenerativeDoodleArt_VisionOS](https://github.com/tracyhenry/GenerativeDoodleArt_VisionOS/tree/54f504eaf7548fc6bb8f910d8e6f379b402812c2) - Explore the transformative capabilities of visionOS by creating augmented reality wall art using Vision Pro
 - [VOClimateSpiral](https://github.com/ynagatomo/VOClimateSpiral) - Very simple AR app in visionOS, that shows the climate spiral, which is known as a way to visualize global surface temperature change
+- [MacCast](https://github.com/saagarjha/MacCast) - Cast Mac windows to visionOS
 ### Apple <a name="apple_projects"></a>
 - [Building an Immersive Experience with RealityKit](https://developer.apple.com/documentation/realitykit/building_an_immersive_experience_with_realitykit) - Use systems and postprocessing effects to create a realistic underwater scene
 - [Controlling Entity Collisions in RealityKit](https://developer.apple.com/documentation/realitykit/controlling_entity_collisions_in_realitykit) - Create collision filters to control which objects collide
