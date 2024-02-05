@@ -47,11 +47,12 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [GoncharKit](https://github.com/gonchar/GoncharKit) - RealityKit helper functions for visionOS
 
 #### VisionOS
-- [ImmersiveMoveAndRotate](https://github.com/simonbs/ImmersiveMoveAndRotate) - Example project showing how an immersive scene on visionOS can contain a RealityView that presents a ModelEntity and how that entity can be dragged using DragGesture and rotated using RotateGesture.
+-  [ImmersiveMoveAndRotate](https://github.com/simonbs/ImmersiveMoveAndRotate) - Example project showing how an immersive scene on visionOS can contain a RealityView that presents a ModelEntity and how that entity can be dragged using DragGesture and rotated using RotateGesture.
 - [VisionCraft](https://github.com/Sigil-Wen/VisionCraft) - Minecraft Clone in Apple Vision Pro
 - [GenerativeDoodleArt_VisionOS](https://github.com/tracyhenry/GenerativeDoodleArt_VisionOS/tree/54f504eaf7548fc6bb8f910d8e6f379b402812c2) - Explore the transformative capabilities of visionOS by creating augmented reality wall art using Vision Pro
 - [VOClimateSpiral](https://github.com/ynagatomo/VOClimateSpiral) - Very simple AR app in visionOS, that shows the climate spiral, which is known as a way to visualize global surface temperature change
 - [MacCast](https://github.com/saagarjha/MacCast) - Cast Mac windows to visionOS
+- [HandsWidth](https://github.com/FlipByBlink/HandsWidth) - Measure app by hand tracking for Apple Vision Pro
 ### Apple <a name="apple_projects"></a>
 - [Building an Immersive Experience with RealityKit](https://developer.apple.com/documentation/realitykit/building_an_immersive_experience_with_realitykit) - Use systems and postprocessing effects to create a realistic underwater scene
 - [Controlling Entity Collisions in RealityKit](https://developer.apple.com/documentation/realitykit/controlling_entity_collisions_in_realitykit) - Create collision filters to control which objects collide
