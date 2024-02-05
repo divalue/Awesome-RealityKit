@@ -53,6 +53,8 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [VOClimateSpiral](https://github.com/ynagatomo/VOClimateSpiral) - Very simple AR app in visionOS, that shows the climate spiral, which is known as a way to visualize global surface temperature change
 - [MacCast](https://github.com/saagarjha/MacCast) - Cast Mac windows to visionOS
 - [HandsWidth](https://github.com/FlipByBlink/HandsWidth) - Measure app by hand tracking for Apple Vision Pro
+- [BeatmapVisionPro](https://github.com/fabio914/BeatmapVisionPro) - Beat Saber map (a.k.a beatmap) visualizer for the Apple Vision Pro. This project is the successor of BeatmapAR for iOS.
+
 ### Apple <a name="apple_projects"></a>
 - [Building an Immersive Experience with RealityKit](https://developer.apple.com/documentation/realitykit/building_an_immersive_experience_with_realitykit) - Use systems and postprocessing effects to create a realistic underwater scene
 - [Controlling Entity Collisions in RealityKit](https://developer.apple.com/documentation/realitykit/controlling_entity_collisions_in_realitykit) - Create collision filters to control which objects collide
