@@ -33,6 +33,7 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [RealityKitLaunchScreen](https://github.com/aheze/RealityKitLaunchScreen/tree/main) - A launch screen made with SwiftUI and RealityKit
 - [Glass-Fit](https://github.com/mounarezgui-mobile/glass-fit) - Glass-Fit is an open-source iOS app demo that showcases the power of RealityKit in making 3D overlays effortless using Reality Composer
 - [Capturinator](https://github.com/BertanT/Capturinator) - Powered by RealityKit, Capturinator is a Mac app that turns photos of an object taken at multiple angles into 3D USDZ models.
+- [RealityKit_ARQL](https://github.com/frank-1992/RealityKit_ARQL) - Using RealityKit to implement ARQuickLook functions
 #### Packages
 - [RealityActions](https://github.com/migueldeicaza/RealityActions) - RealityActions brings the popular Cocos2D-style action framework to Entities in RealityKit.
 - [FocusEntity](https://github.com/maxxfrazer/FocusEntity) - FocusEntity lets you see exactly where the centre of the view will sit in the AR space
