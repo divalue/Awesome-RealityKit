@@ -70,6 +70,7 @@ The RealityKit framework was built from the ground up specifically for augmented
 
 ## Resources
 ### Articles
+- [VisionOS Development: Tips and Tricks](https://hackernoon.com/visionos-development-tips-and-tricks-for-building-apple-vision-pro-apps) - Tips and Tricks for Building Apple Vision Pro Apps
 - [Getting started with RealityKit](https://maxxfrazer.medium.com/getting-started-with-realitykit-3b401d6f6f) - Series of articles about RealityKit
 - [RealityKit](https://www.kodeco.com/books/apple-augmented-reality-by-tutorials/v1.0/chapters/9-realitykit) - Part of the book about RealityKit from kodeco
 - [Building an AR app with RealityKit](https://www.ralfebert.com/ios/realitykit-dice-tutorial/) - RealityKit dice AR game tutorial
