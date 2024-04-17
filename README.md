@@ -47,6 +47,7 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [Reality Morpher](https://github.com/Utsira/RealityMorpher) - Adds Morph Target / Shape Key / Blend Shape animations to RealityKit
 - [GoncharKit](https://github.com/gonchar/GoncharKit) - RealityKit helper functions for visionOS
 - [ShaderGraphCoder](https://github.com/praeclarum/ShaderGraphCoder) - An embedded DSL to write RealityKit shaders in Swift.
+- [HandVector](https://github.com/XanderXu/HandVector) - HandVector uses Cosine Similarity Algorithm to calculate the similarity of hand gestures in visionOS, and with a macOS tool to test hand tracking in visionOS simulator.
 
 #### VisionOS
 -  [ImmersiveMoveAndRotate](https://github.com/simonbs/ImmersiveMoveAndRotate) - Example project showing how an immersive scene on visionOS can contain a RealityView that presents a ModelEntity and how that entity can be dragged using DragGesture and rotated using RotateGesture.
@@ -57,6 +58,7 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [HandsWidth](https://github.com/FlipByBlink/HandsWidth) - Measure app by hand tracking for Apple Vision Pro
 - [BeatmapVisionPro](https://github.com/fabio914/BeatmapVisionPro) - Beat Saber map (a.k.a beatmap) visualizer for the Apple Vision Pro. This project is the successor of BeatmapAR for iOS.
 - [ALVR-VisionOS](https://github.com/alvr-org/alvr-visionos) - Experimental visionOS client for ALVR - SteamVR on Apple Vision Pro
+
 
 ### Apple <a name="apple_projects"></a>
 - [Building an Immersive Experience with RealityKit](https://developer.apple.com/documentation/realitykit/building_an_immersive_experience_with_realitykit) - Use systems and postprocessing effects to create a realistic underwater scene
