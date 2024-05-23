@@ -69,6 +69,8 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [Hello World](https://developer.apple.com/documentation/visionos/world) - Use windows, volumes, and immersive spaces to teach people about the Earth
 - [Diorama](https://developer.apple.com/documentation/visionos/diorama) - Design scenes for your visionOS app using Reality Composer Pro
 - [Swift Splash](https://developer.apple.com/documentation/visionos/swift-splash) - Use RealityKit to create an interactive ride in visionOS
+- [Simulating physics with collisions](https://developer.apple.com/documentation/realitykit/simulating-physics-with-collisions-in-your-visionos-app) - Create entities that behave and react like physical objects in a RealityKit view
+- [Simulating particles](https://developer.apple.com/documentation/realitykit/simulating-particles-in-your-visionos-app) - Add a range of visual effects to a RealityKit view by attaching a particle emitter component to an entity
 
 ## Resources
 ### Articles
