@@ -58,7 +58,7 @@ The RealityKit framework was built from the ground up specifically for augmented
 - [HandsWidth](https://github.com/FlipByBlink/HandsWidth) - Measure app by hand tracking for Apple Vision Pro
 - [BeatmapVisionPro](https://github.com/fabio914/BeatmapVisionPro) - Beat Saber map (a.k.a beatmap) visualizer for the Apple Vision Pro. This project is the successor of BeatmapAR for iOS.
 - [ALVR-VisionOS](https://github.com/alvr-org/alvr-visionos) - Experimental visionOS client for ALVR - SteamVR on Apple Vision Pro
-
+- [I/O](https://github.com/comdigis-community/IO) - A multiplatform spatial audio engine written in Swift, focused on high-performance, low-latency DSP, realtime audio graph processing, spatial audio, binaural rendering, XR, and interactive media.
 
 ### Apple <a name="apple_projects"></a>
 - [Building an Immersive Experience with RealityKit](https://developer.apple.com/documentation/realitykit/building_an_immersive_experience_with_realitykit) - Use systems and postprocessing effects to create a realistic underwater scene
