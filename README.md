@@ -24,6 +24,7 @@ The RealityKit framework was built from the ground up specifically for augmented
         + [2019](#2019)
     
 ## Projects
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native Swift companion for macOS desktop.
 
 ### Community
 #### Samples
